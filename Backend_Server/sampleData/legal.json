@@ -1,0 +1,46 @@
+[
+  {
+    "source": "constitution_of_india.pdf",
+    "data": "The Constitution of India is the supreme law of the land. It establishes the framework for political principles, procedures, and powers of government institutions and guarantees fundamental rights to all citizens."
+  },
+  {
+    "source": "fundamental_rights.docx",
+    "data": "Fundamental rights in India include the right to equality, freedom of speech and expression, protection from discrimination, and the right to constitutional remedies. These are enforceable by the Supreme Court and High Courts."
+  },
+  {
+    "source": "ipc_summary_guide.pdf",
+    "data": "The Indian Penal Code (IPC), enacted in 1860, defines various crimes and prescribes punishments. It covers offences such as theft, assault, murder, fraud, and more, forming the backbone of India's criminal law."
+  },
+  {
+    "source": "civil_vs_criminal_law_blog.html",
+    "data": "Civil law in India deals with disputes between individuals or organizations regarding rights, contracts, or property. Criminal law addresses offences against the state and includes prosecution by the government."
+  },
+  {
+    "source": "legal_aid_scheme_2022.json",
+    "data": "Legal aid in India is provided under the Legal Services Authorities Act, 1987. It ensures free legal services to eligible citizens, including women, children, SC/ST, disabled persons, and those below the poverty line."
+  },
+  {
+    "source": "supreme_court_landmark_cases.csv",
+    "data": "The Kesavananda Bharati case (1973) established the Basic Structure Doctrine, limiting Parliament’s power to amend the Constitution. The Vishaka case (1997) laid the foundation for workplace sexual harassment guidelines."
+  },
+  {
+    "source": "judicial_system_structure.xml",
+    "data": "India's judicial system is a three-tier structure comprising the Supreme Court at the top, followed by High Courts in each state, and lower courts such as district and magistrate courts handling local disputes."
+  },
+  {
+    "source": "right_to_information_act_2005.doc",
+    "data": "The Right to Information (RTI) Act, 2005 empowers Indian citizens to request information from public authorities, promoting transparency and accountability in governance."
+  },
+  {
+    "source": "cyber_law_india_overview.pdf",
+    "data": "Cyber laws in India, mainly governed under the Information Technology Act, 2000, address issues related to data protection, digital signatures, hacking, and cybercrime enforcement."
+  },
+  {
+    "source": "legal_reforms_policy_brief.txt",
+    "data": "Recent legal reforms aim to reduce pendency of cases, digitize court processes, and improve access to justice through e-Courts, virtual hearings, and simplified procedural laws."
+  },
+  {
+    "source": "legal_summary_conclusion.txt",
+    "data": "India's legal framework is evolving to meet modern challenges, balancing constitutional principles with new-age legal needs such as digital rights, privacy, and speedy justice delivery."
+  }
+]

@@ -1,0 +1,18 @@
+.thin-scrollbar::-webkit-scrollbar {
+  height: 6px; /* thin scrollbar height for horizontal scroll */
+  width: 6px;  /* thin scrollbar width for vertical scroll */
+}
+
+.thin-scrollbar::-webkit-scrollbar-thumb {
+  background-color: rgba(107, 114, 128, 0.6); /* gray-500 with opacity */
+  border-radius: 10px;
+}
+
+.thin-scrollbar::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.thin-scrollbar {
+  scrollbar-width: thin; /* Firefox */
+  scrollbar-color: rgba(107, 114, 128, 0.6) transparent; /* Firefox */
+}

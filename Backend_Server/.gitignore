@@ -1,0 +1,38 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env
+
+# VSCode or other editor settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log and debug files
+*.log
+
+# ChromaDB store (optional, if generated at runtime or can be recreated)
+chroma_store/
+chroma_store/*.sqlite3
+
+# Test coverage or profiling data
+htmlcov/
+.coverage
+.cache
+.pytest_cache/
+*.prof
+
+# Node modules (if frontend lives here or will later)
+node_modules/
+
+# OS generated
+ehthumbs.db
+Icon?
+Desktop.ini

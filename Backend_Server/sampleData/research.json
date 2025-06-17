@@ -1,0 +1,46 @@
+[
+  {
+    "source": "isro_missions_summary.pdf",
+    "data": "ISRO, the Indian Space Research Organisation, has successfully launched numerous missions including Chandrayaan (Moon), Mangalyaan (Mars), and PSLV launches. It is known for cost-effective space exploration and indigenous satellite development."
+  },
+  {
+    "source": "chandrayaan3_mission_details.docx",
+    "data": "Chandrayaan-3, launched in 2023, was India’s third lunar mission and the first to achieve a successful soft landing near the Moon’s south pole, marking a major milestone in global space exploration."
+  },
+  {
+    "source": "mangalyaan_mission_report.json",
+    "data": "Mangalyaan (Mars Orbiter Mission), launched in 2013, made India the first Asian country to reach Mars orbit and the first nation to do so in its maiden attempt. The mission highlighted India’s low-cost, high-impact approach to space science."
+  },
+  {
+    "source": "dr_apj_abdul_kalam_biography.html",
+    "data": "Dr. A.P.J. Abdul Kalam, known as the 'Missile Man of India', played a crucial role in India’s missile development programs like Agni and Prithvi and was also a key figure in the 1998 Pokhran-II nuclear tests."
+  },
+  {
+    "source": "vikram_sarabhai_contributions.doc",
+    "data": "Dr. Vikram Sarabhai is regarded as the father of the Indian space program. He established ISRO and was instrumental in initiating satellite communication and remote sensing programs in India during the 1960s and 70s."
+  },
+  {
+    "source": "scientific_research_india_policy_2020.pdf",
+    "data": "India's National Science, Technology and Innovation Policy (STIP) 2020 aims to boost research funding, promote collaborative innovation, and increase public-private partnerships in science and technology."
+  },
+  {
+    "source": "nobel_laureates_from_india.csv",
+    "data": "Indian-origin Nobel laureates include C.V. Raman (Physics, 1930), Venkatraman Ramakrishnan (Chemistry, 2009), and Abhijit Banerjee (Economics, 2019). Their work has had a global impact in their respective fields."
+  },
+  {
+    "source": "csir_achievements_review.txt",
+    "data": "The Council of Scientific and Industrial Research (CSIR) has contributed to agriculture, pharmaceuticals, materials science, and biotechnology, with over 30 national laboratories across India."
+  },
+  {
+    "source": "artificial_intelligence_research_india.xml",
+    "data": "India is investing in AI research through initiatives like the National AI Portal, IIT-led AI centers, and NITI Aayog’s AI strategy focused on healthcare, education, and agriculture."
+  },
+  {
+    "source": "research_funding_challenges_blog.json",
+    "data": "Despite notable progress, Indian scientific research faces challenges like limited funding, brain drain, and slow technology transfer from labs to industry. Efforts are being made to bridge these gaps."
+  },
+  {
+    "source": "research_domain_overview_final.doc",
+    "data": "Indian research is evolving rapidly in fields like space, nuclear energy, AI, and climate science. Public-private collaboration and international partnerships are seen as key to sustaining this momentum."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "source": "RBI_annual_report_2023.pdf",
+    "data": "The Reserve Bank of India (RBI) is responsible for monetary policy, regulation of banks, issuance of currency, and maintaining financial stability in the country. (Report: https://rbi.org.in/Scripts/AnnualReportPublications.aspx)"
+  },
+  {
+    "source": "budget2024_summary.docx",
+    "data": "The Union Budget 2024 emphasizes infrastructure growth, digital payments, and tax reforms while aiming to keep fiscal deficit under control. (Details: https://www.indiabudget.gov.in/)"
+  },
+  {
+    "source": "SEBI_guidelines.html",
+    "data": "The Securities and Exchange Board of India (SEBI) regulates the securities market, protecting investors and ensuring fair practices in stock exchanges. (SEBI: https://www.sebi.gov.in/)"
+  },
+  {
+    "source": "indian_economy_overview.json",
+    "data": "India’s GDP grew at 6.8% in FY2023, driven by strong performance in manufacturing, services, and digital economy sectors. (Reference: https://www.mospi.gov.in/)"
+  },
+  {
+    "source": "startup_funding_trends.csv",
+    "data": "In 2023, Indian startups raised $10 billion, with fintech and SaaS sectors attracting the majority of investments. (Source: https://inc42.com/startups/)"
+  },
+  {
+    "source": "financial_inclusion_policy.doc",
+    "data": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) has opened over 480 million bank accounts, promoting financial inclusion across rural and urban India. (Official: https://pmjdy.gov.in/)"
+  },
+  {
+    "source": "global_trade_report_2024.pptx",
+    "data": "India’s exports crossed $770 billion in 2023, with major contributions from IT services, pharmaceuticals, and engineering goods. (Trade Data: https://commerce.gov.in/)"
+  },
+  {
+    "source": "digital_payments_growth.pdf",
+    "data": "UPI transactions have surged, crossing 12 billion monthly transactions in 2024, making India a global leader in digital payments. (NPCI: https://www.npci.org.in/what-we-do/upi/product-statistics)"
+  },
+  {
+    "source": "inflation_analysis_blog.json",
+    "data": "Inflation in India has remained within RBI’s target band of 4% ± 2%, though food and fuel prices continue to drive short-term fluctuations. (RBI Data: https://rbi.org.in/)"
+  },
+  {
+    "source": "cryptocurrency_policy_gov.xml",
+    "data": "India is considering regulations around cryptocurrencies, focusing on preventing misuse while exploring Central Bank Digital Currency (CBDC). (Reference: https://rbi.org.in/Scripts/BS_ViewBulletin.aspx)"
+  },
+  {
+    "source": "MSME_report_2023.docx",
+    "data": "Micro, Small, and Medium Enterprises (MSMEs) contribute around 30% to India’s GDP and are a backbone of employment generation. (MSME Ministry: https://msme.gov.in/)"
+  },
+  {
+    "source": "economic_survey2024_summary.pdf",
+    "data": "The Economic Survey 2024 highlights India’s resilience in global uncertainties, projecting steady growth fueled by digital innovation and green energy. (Survey: https://www.indiabudget.gov.in/economicsurvey/)"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "source": "healthIndia.gov.in",
+    "data": "The Indian healthcare system is a vast and complex network that includes public and private providers, spanning urban to rural areas. It aims to deliver affordable, accessible, and quality healthcare to over 1.4 billion people. (Official: https://www.mohfw.gov.in/)"
+  },
+  {
+    "source": "healthReport_2023.pdf",
+    "data": "India’s healthcare structure operates on three levels: primary, secondary, and tertiary care. Primary healthcare centers (PHCs) and sub-centers form the first point of contact, especially in rural areas. They provide basic medical services such as immunization, maternal and child care, and treatment of common illnesses. (WHO: https://www.who.int/india/health-topics/primary-health-care)"
+  },
+  {
+    "source": "district_hospital_overview.docx",
+    "data": "Secondary care is delivered through district hospitals and community health centers (CHCs), which offer more specialized services and serve as referral points for PHCs. Tertiary care is provided by medical colleges and large hospitals offering advanced treatment, diagnostics, and surgeries. (Gov Report: https://nhm.gov.in/)"
+  },
+  {
+    "source": "NHM_gov_policy.html",
+    "data": "The public healthcare system is largely funded by the government and provides low-cost or free services. Key government initiatives include the National Health Mission (NHM), which aims to improve healthcare infrastructure and outcomes in rural and underserved regions. (NHM: https://nhm.gov.in/)"
+  },
+  {
+    "source": "ayushmanBharat.pdf",
+    "data": "Ayushman Bharat, launched in 2018, is one of the world’s largest health assurance schemes, offering free health coverage up to ₹5 lakh per family per year for secondary and tertiary hospitalization. (Official: https://pmjay.gov.in/)"
+  },
+  {
+    "source": "public_health_review_blog.json",
+    "data": "Despite these efforts, challenges remain. Public hospitals often face issues like overcrowding, limited resources, and understaffing. As a result, a significant portion of the population depends on private healthcare, which is better equipped but can be expensive and unaffordable for lower-income groups. (Analysis: https://www.orfonline.org/research/indias-healthcare-challenges/)"
+  },
+  {
+    "source": "private_sector_analysis.csv",
+    "data": "The private sector plays a major role, accounting for the majority of outpatient care and a significant share of inpatient services. It includes a wide range of providers—from small clinics to multispecialty hospitals—and is often seen as offering faster and better quality care. (Source: https://www.niti.gov.in/)"
+  },
+  {
+    "source": "telemedicine_report_2024.json",
+    "data": "Telemedicine is rapidly growing in India, especially post-COVID-19. It has expanded access to healthcare in remote areas, allowing patients to consult doctors via mobile apps and video calls. Initiatives like eSanjeevani have made digital consultations widely available through government channels. (eSanjeevani: https://esanjeevani.in/)"
+  },
+  {
+    "source": "ayush_policy_gov.india.xml",
+    "data": "India also has a strong focus on traditional medicine systems like Ayurveda, Yoga, Unani, Siddha, and Homeopathy (AYUSH). These systems are integrated into national health policies and are commonly used alongside allopathic treatments. (AYUSH Ministry: https://main.ayush.gov.in/)"
+  },
+  {
+    "source": "insurance_stats_factsheet.pdf",
+    "data": "Health insurance coverage in India is growing, led by government schemes and private insurers. However, many citizens still pay out-of-pocket, making healthcare costs a significant financial burden for millions. (IRDAI: https://irdai.gov.in/)"
+  },
+  {
+    "source": "UHC_policy_vision_2025.pptx",
+    "data": "The government is working toward Universal Health Coverage (UHC), focusing on preventive care, infrastructure development, and workforce expansion. Recent policies aim to increase public health spending and improve digital health records and interoperability. (WHO UHC: https://www.who.int/health-topics/universal-health-coverage)"
+  },
+  {
+    "source": "healthcare_summary_final.doc",
+    "data": "In conclusion, the Indian healthcare system is making significant progress but continues to face challenges in access, affordability, and quality. With the right mix of policy, technology, and public-private collaboration, India aims to provide equitable and efficient healthcare to all citizens. (Summary: https://www.niti.gov.in/healthcare-reports)"
+  }
+]

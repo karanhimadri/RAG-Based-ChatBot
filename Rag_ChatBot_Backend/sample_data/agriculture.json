@@ -1,0 +1,50 @@
+[
+  {
+    "source": "agriculture_ministry_overview.pdf",
+    "data": "Agriculture is the backbone of the Indian economy, employing nearly 42% of the workforce and contributing around 18% to the national GDP. It includes crop cultivation, horticulture, animal husbandry, fisheries, and agro-forestry. (Source: https://agricoop.gov.in/)"
+  },
+  {
+    "source": "pm_kisan_scheme.docx",
+    "data": "The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) provides income support of ₹6,000 per year to eligible farmer families, paid in three equal installments. It is a direct cash transfer scheme aimed at improving farmer livelihoods. (Official: https://pmkisan.gov.in/)"
+  },
+  {
+    "source": "crop_insurance_policy.pdf",
+    "data": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) offers crop insurance to farmers against losses due to natural calamities, pests, and diseases. It aims to stabilize farm incomes and encourage modern agricultural practices. (Details: https://pmfby.gov.in/)"
+  },
+  {
+    "source": "agri_infra_report_2023.pptx",
+    "data": "Agricultural infrastructure in India includes cold storage chains, irrigation facilities, rural roads, and warehouses. Recent government programs focus on improving post-harvest management to reduce food wastage. (Read: https://agrinfra.dac.gov.in/)"
+  },
+  {
+    "source": "organic_farming_blog.json",
+    "data": "Organic farming is gaining popularity in India due to rising demand for chemical-free produce. States like Sikkim have taken the lead, becoming fully organic and promoting sustainable farming practices. (Case Study: https://sikkim.gov.in/organic-farming)"
+  },
+  {
+    "source": "agri_tech_innovation.doc",
+    "data": "Technology adoption in agriculture includes the use of drones, IoT sensors, satellite imaging, and AI-based crop monitoring systems. These innovations are helping farmers increase productivity and reduce risks. (Example: https://www.niti.gov.in/technology-in-agriculture)"
+  },
+  {
+    "source": "fao_report_india.csv",
+    "data": "According to FAO, India is one of the largest producers of rice, wheat, pulses, cotton, sugarcane, and spices. The country plays a crucial role in global food security. (FAO Data: https://www.fao.org/india/en/)"
+  },
+  {
+    "source": "water_management_policy.html",
+    "data": "Water management is a critical challenge in Indian agriculture, as over 60% of farmland depends on monsoons. Initiatives like micro-irrigation, rainwater harvesting, and river interlinking aim to ensure water sustainability. (Reference: https://jalshakti-dowr.gov.in/)"
+  },
+  {
+    "source": "farmer_market_review.docx",
+    "data": "Agricultural markets in India are regulated through mandis under the Agricultural Produce Market Committee (APMC). However, recent reforms aim to provide farmers direct access to buyers, reducing middlemen and improving incomes. (More Info: https://enam.gov.in/)"
+  },
+  {
+    "source": "climate_change_impact.pdf",
+    "data": "Climate change poses significant risks to Indian agriculture, including irregular rainfall, heatwaves, and declining soil fertility. Farmers are encouraged to adopt climate-resilient practices such as crop diversification and agroforestry. (UN Report: https://unfccc.int/climate-action)"
+  },
+  {
+    "source": "rural_development_strategy_2025.xml",
+    "data": "Rural development programs focus on strengthening livelihoods, self-help groups, and digital platforms for farmers. E-NAM (National Agriculture Market) is a digital initiative connecting farmers to nationwide markets. (E-NAM: https://enam.gov.in/web/)"
+  },
+  {
+    "source": "agriculture_summary_final.doc",
+    "data": "In conclusion, Indian agriculture is transitioning from traditional methods to modern, tech-enabled, and sustainable practices. With proper policy support, digital innovations, and climate adaptation strategies, the sector can ensure food security and rural prosperity. (Summary: https://agricoop.gov.in/)"
+  }
+]

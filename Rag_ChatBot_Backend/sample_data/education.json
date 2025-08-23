@@ -1,0 +1,50 @@
+[
+  {
+    "source": "NEP_2020_policy.pdf",
+    "data": "The National Education Policy (NEP) 2020 aims to transform India's education system by emphasizing holistic, multidisciplinary, and flexible learning. It targets increasing the Gross Enrollment Ratio in higher education to 50% by 2035. (Policy: https://www.education.gov.in/nep-2020)"
+  },
+  {
+    "source": "school_infra_report_2023.docx",
+    "data": "The government has invested in improving school infrastructure by providing smart classrooms, better sanitation facilities, and digital learning resources. Rural schools are being prioritized under the Samagra Shiksha Abhiyan. (Details: https://samagra.education.gov.in/)"
+  },
+  {
+    "source": "ugc_guidelines.html",
+    "data": "The University Grants Commission (UGC) regulates higher education institutions in India. It sets standards for quality, accreditation, research funding, and teacher training programs. (UGC: https://www.ugc.gov.in/)"
+  },
+  {
+    "source": "online_learning_trends_2024.json",
+    "data": "Online learning has grown rapidly post-COVID-19, with platforms like SWAYAM, Coursera, and edX offering thousands of courses. Students increasingly prefer blended learning models combining online and offline education. (SWAYAM: https://swayam.gov.in/)"
+  },
+  {
+    "source": "AI_in_education_research.pdf",
+    "data": "Artificial Intelligence is being used in education for personalized learning, adaptive testing, automated grading, and predictive analytics to improve student performance and engagement. (NITI Aayog Report: https://www.niti.gov.in/)"
+  },
+  {
+    "source": "literacy_rate_analysis.csv",
+    "data": "India’s literacy rate has crossed 77% as of 2023. However, challenges remain in improving female literacy in rural areas and reducing dropout rates in secondary schools. (Census Data: https://censusindia.gov.in/)"
+  },
+  {
+    "source": "vocational_training_report.doc",
+    "data": "Vocational and skill-based education is gaining importance under the Skill India Mission, aiming to train millions of youth in trades like carpentry, electrical work, coding, and digital marketing. (Skill India: https://skillindia.gov.in/)"
+  },
+  {
+    "source": "international_collaboration.pptx",
+    "data": "Indian universities are increasingly partnering with foreign institutions for joint degree programs, student exchange, and collaborative research to enhance global competitiveness. (Example: https://studyinindia.gov.in/)"
+  },
+  {
+    "source": "digital_classroom_initiative_blog.json",
+    "data": "Government and private initiatives are pushing for digitization of classrooms through smart boards, tablets, and e-content libraries, aiming to improve student engagement and interactive learning. (Initiative: https://diksha.gov.in/)"
+  },
+  {
+    "source": "teacher_training_policy_2025.docx",
+    "data": "The new policy emphasizes continuous professional development for teachers, with mandatory training programs on pedagogy, classroom management, and digital teaching tools. (NCERT Teacher Training: https://ncert.nic.in/)"
+  },
+  {
+    "source": "scholarship_schemes_overview.pdf",
+    "data": "Multiple scholarship schemes, such as National Means-Cum-Merit Scholarship and Post-Matric Scholarship for minorities, aim to support financially disadvantaged students in pursuing education. (Scholarships Portal: https://scholarships.gov.in/)"
+  },
+  {
+    "source": "education_summary_final.doc",
+    "data": "In conclusion, the Indian education system is undergoing a major transformation with NEP 2020, digital learning, skill development, and international collaborations. However, challenges such as access, quality, and equity need continuous attention. (Education Ministry: https://www.education.gov.in/)"
+  }
+]

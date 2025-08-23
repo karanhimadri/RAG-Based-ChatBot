@@ -1,0 +1,112 @@
+# --- Python bytecode / cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environments ---
+.venv/
+venv/
+ENV/
+.env.bak
+.python-version
+
+# --- Package/build artifacts ---
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# --- Logs & runtime output ---
+logs/
+*.log
+*.out
+*.err
+
+# --- Test / coverage ---
+htmlcov/
+.coverage*
+.pytest_cache/
+.cache/
+.tox/
+.nox/
+.mypy_cache/
+.dmypy.json
+.pyre/
+ruff_cache/
+
+# --- Environment / secrets ---
+.env
+.env.*
+# Keep an example if you have one
+!.env.example
+secrets.json
+*.pem
+*.key
+*.crt
+
+# --- IDE / Editor ---
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# --- OS / Misc ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Data / Embeddings / Vector store artifacts ---
+# (Adjust if you want to version certain small curated samples.)
+# Common local vector DB / embedding cache files
+*.faiss
+*.hnsw
+*.ann
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.joblib
+
+# Large intermediate datasets or exports
+/data/
+!data/README.md
+
+# --- Temporary files ---
+*.tmp
+*.temp
+~$*
+*.bak
+
+# --- Jupyter (if any appear later) ---
+.ipynb_checkpoints/
+*.ipynb
+
+# --- Cache from tooling ---
+.sagemaker/
+.mlflow/
+wandb/
+
+# --- Local scripts or experimental scratch ---
+scratch*/
+experiments*/
+
+# --- Lock / state ---
+Pipfile.lock
+poetry.lock
+
+# --- PyInstaller / py2exe artifacts ---
+*.manifest
+*.spec
+
+# --- Coverage reports ---
+coverage.xml
+
+# --- Type checker / static analysis ---
+.pytype/
+
+# --- Node (if front-end added later) ---
+node_modules/
+# End of .gitignore

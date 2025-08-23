@@ -1,0 +1,50 @@
+[
+  {
+    "source": "moefcc_policy_vision.pdf",
+    "data": "The Ministry of Environment, Forest and Climate Change (MoEFCC) is the primary body responsible for planning and implementing policies related to environmental protection and climate action in India. (Official site: https://moef.gov.in/)"
+  },
+  {
+    "source": "cop26_commitments.docx",
+    "data": "At COP26 in Glasgow, India pledged to achieve net-zero carbon emissions by 2070 and committed to reducing the carbon intensity of its economy by 45% from 2005 levels by 2030. (Reference: https://unfccc.int/cop26)"
+  },
+  {
+    "source": "renewable_energy_report_2023.html",
+    "data": "India ranks fourth in renewable energy capacity globally, with significant investments in solar, wind, and hydropower projects. The country aims to reach 500 GW of non-fossil fuel capacity by 2030. (Source: https://mnre.gov.in/)"
+  },
+  {
+    "source": "climate_adaptation_strategy.json",
+    "data": "India’s climate adaptation strategy focuses on agriculture, water resources, and disaster resilience. Initiatives include promoting climate-resilient crops, rainwater harvesting, and early warning systems for extreme weather. (Details: https://www.napcc.gov.in/)"
+  },
+  {
+    "source": "state_of_forest_report_2021.pdf",
+    "data": "According to the State of Forest Report 2021, India’s total forest and tree cover is 24.62% of its geographical area. However, deforestation and urban expansion continue to threaten biodiversity. (Report: https://fsi.nic.in/forest-report-2021)"
+  },
+  {
+    "source": "national_clean_air_program.xml",
+    "data": "The National Clean Air Programme (NCAP) aims to reduce air pollution levels by 20–30% in 122 Indian cities by 2024, through stricter emission controls, public awareness, and better monitoring. (NCAP: https://ncap.niti.gov.in/)"
+  },
+  {
+    "source": "plastic_waste_management_rules_2022.doc",
+    "data": "India has implemented strict Plastic Waste Management Rules, banning single-use plastics such as straws, cutlery, and plastic sticks from July 2022 to tackle plastic pollution. (Rules: https://cpcb.nic.in/plastic-waste-management/)"
+  },
+  {
+    "source": "climate_finance_overview.csv",
+    "data": "Climate finance in India is growing, with green bonds and international funding supporting renewable projects, afforestation, and sustainable infrastructure. (Info: https://www.climatefinance.in/)"
+  },
+  {
+    "source": "ngt_cases_summary.pptx",
+    "data": "The National Green Tribunal (NGT) plays a critical role in enforcing environmental laws in India, addressing cases of industrial pollution, illegal mining, and waste mismanagement. (NGT: https://greentribunal.gov.in/)"
+  },
+  {
+    "source": "biodiversity_action_plan_final.docx",
+    "data": "India’s National Biodiversity Action Plan emphasizes the conservation of ecosystems, sustainable use of natural resources, and equitable sharing of benefits arising from biodiversity. (Source: https://nbaindia.org/)"
+  },
+  {
+    "source": "climate_change_impacts_blog.json",
+    "data": "Climate change in India has led to more frequent floods, heatwaves, and droughts, affecting millions of people and threatening food and water security. (UN India: https://india.un.org/en/climate-action)"
+  },
+  {
+    "source": "environmental_summary_review.doc",
+    "data": "In summary, India’s environment and climate strategy balances rapid economic growth with sustainability goals. Success depends on policy implementation, international cooperation, and active participation of citizens. (Summary: https://moef.gov.in/)"
+  }
+]

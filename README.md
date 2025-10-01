@@ -19,17 +19,26 @@
 ![Chat Interface](screenshots/chat_inerfacd.png)
 *Modern, responsive chat interface with real-time messaging and typing indicators*
 
-### Backend Architecture
-![RAG Backend Pipeline](screenshots/rag_backend_pipeline_diagram.png)
-*Complete RAG pipeline architecture diagram*
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/rag_backend_pipeline_diagram.png" width="300" alt="RAG Backend Pipeline"/><br/>
+      <b>Backend Architecture</b><br/>
+      <sub>Complete RAG pipeline architecture diagram</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/authentication_page.png" width="300" alt="Authentication Page"/><br/>
+      <b>Authentication System</b><br/>
+      <sub>Secure user authentication with Supabase integration</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/chat_citation_sources_panel.png" width="300" alt="Citation Sources Panel"/><br/>
+      <b>Source Citations Panel</b><br/>
+      <sub>Source citations and references for transparent AI responses</sub>
+    </td>
+  </tr>
+</table>
 
-### Authentication System
-![Authentication Page](screenshots/authentication_page.png)
-*Secure user authentication with Supabase integration*
-
-### Source Citations Panel
-![Citation Sources Panel](screenshots/chat_citation_sources_panel.png)
-*Source citations and references for transparent AI responses*
 
 ## 🚀 **Project Highlights**
 

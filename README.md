@@ -74,16 +74,13 @@
 - **Next.js 15** - React framework with App Router and dynamic routing
 - **React 19** - Latest React with enhanced performance
 - **Tailwind CSS** - Utility-first CSS framework with dark/light theme support
-- **Framer Motion** - Smooth animations and transitions
-- **Lucide React** - Consistent iconography
 - **Supabase** - User authentication and management
 - **LocalStorage** - Message history persistence
 
 ### **Backend & API**
 - **FastAPI** - High-performance async web framework
-- **Python 3.12** - Latest Python with enhanced performance
+- **Python** - Latest Python with enhanced performance
 - **Pydantic** - Data validation and serialization
-- **CORS Middleware** - Cross-origin resource sharing support
 
 ### **AI & Machine Learning**
 - **Google Gemini 1.5 Flash** - Large Language Model for response generation
@@ -92,15 +89,9 @@
 
 ### **Data & Storage**
 - **Pinecone** - Serverless vector database (AWS us-east-1)
-- **Upstash Redis** - Managed Redis for credit tracking
+- **Redis** - Managed Redis for credit tracking
 - **JSON Data Sources** - Curated domain-specific knowledge bases
 - **Supabase Database** - User data and chat history storage
-
-### **Infrastructure & DevOps**
-- **Environment Variables** - Secure configuration management
-- **Modular Architecture** - Separation of concerns with clean code structure
-- **Error Handling** - Comprehensive exception management
-- **Performance Monitoring** - Built-in response time tracking
 
 ---
 
@@ -113,96 +104,6 @@
 | 🌍 **Environment** | Climate policies, renewable energy, sustainability | "What are India's commitments under COP26?" |
 | 💼 **Finance** | Economic policies, financial regulations, market insights | "What are the latest RBI monetary policy changes?" |
 | 🏥 **Healthcare** | Health policies, medical guidelines, public health | "What are India's vaccination strategies for rural areas?" |
-
----
-
-## 🚀 **API Endpoints**
-
-### **POST /query** - Intelligent Query Processing
-```json
-{
-  "query": "What are India's renewable energy targets?",
-  "domain": "environment",
-  "user_id": "user123"
-}
-```
-
-**Response:**
-```json
-{
-  "status": true,
-  "message": "Response generated successfully",
-  "response": "India aims to reach **500 GW** of non-fossil fuel capacity by 2030...",
-  "metadata": {
-    "sources": ["renewable_energy_report_2023.html"],
-    "response_time_seconds": 1.23,
-    "data": [...]
-  }
-}
-```
-
-### **GET /credits** - Usage Monitoring
-```json
-{
-  "user_id": "user123",
-  "credits": 7
-}
-```
-
----
-
-## ⚡ **Key Features & Technical Achievements**
-
-### **🎯 Intelligent Response Generation**
-- **Context-Aware Responses** with source attribution
-- **Domain-Specific Filtering** for relevant information retrieval
-- **Markdown Formatting** for rich text presentation
-- **Confidence Scoring** for response quality assessment
-
-### **� Advanced Chat Interface**
-- **Real-time Messaging** with typing indicators
-- **Message History Persistence** using localStorage
-- **Source Citations Panel** for transparent AI responses
-- **Sample Queries** to help users get started
-- **Responsive Design** with collapsible sidebar
-- **Dark/Light Theme** support
-
-### **🔐 User Authentication & Management**
-- **Supabase Integration** for secure user management
-- **Login/Signup Modals** with session management
-- **User-specific Chat History** storage
-- **Credit-Based Usage Control** (10 credits/12 hours) preventing abuse
-- **User Session Management** with automatic expiry
-
-### **💡 Business Logic Implementation**
-- **Multi-Domain Support** across 5 specialized categories
-- **Document Collections** ranging from 892 to 4,200 documents per category
-- **Performance Analytics** for system optimization
-- **Scalable Domain Architecture** for easy expansion
-
-### **🔧 Technical Excellence**
-- **Async/Await Patterns** for optimal performance
-- **Type Hints & Validation** for code reliability
-- **Component-Based Architecture** with reusable UI components
-- **Context Providers** for state management (Auth, Chats)
-- **Environment-Based Configuration** for different deployment stages
-
-### **🚀 Production-Ready Features**
-- **CORS Support** for frontend integration
-- **Comprehensive Error Handling** with meaningful responses
-- **API Documentation** with automatic OpenAPI/Swagger generation
-- **Monitoring & Logging** for operational insights
-- **Mobile-Responsive Design** for cross-device compatibility
-
----
-
-## 📈 **Performance Metrics**
-
-- **Response Time**: < 2 seconds average
-- **Vector Search**: 1024-dimensional cosine similarity
-- **Retrieval Accuracy**: Top-3 relevant documents per query
-- **Concurrent Users**: Scalable with FastAPI's async architecture
-- **Cost Optimization**: Credit system reduces unnecessary API calls by ~60%
 
 ---
 
@@ -238,8 +139,6 @@ cd rag-frontend
 
 # Install dependencies
 npm install
-# or
-yarn install
 
 # Set environment variables
 cp .env.local.example .env.local
@@ -247,8 +146,6 @@ cp .env.local.example .env.local
 
 # Run the development server
 npm run dev
-# or
-yarn dev
 ```
 
 ### **Environment Variables**
@@ -275,131 +172,30 @@ NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
 
 ```
 ChatBot/
-├── README.md                    # Project documentation
-├── screenshots/                 # Project screenshots
-│   ├── authentication_page.png
-│   ├── chat_citation_sources_panel.png
-│   ├── chat_inerfacd.png
-│   └── rag_backend_pipeline_diagram.png
 ├── Rag_ChatBot_Backend/        # Backend API
 │   ├── main.py                 # FastAPI application entry point
 │   ├── requirements.txt        # Python dependencies
 │   ├── config/
-│   │   ├── credit_tracker.py   # Redis-based credit management
-│   │   └── pinacone_config.py  # Pinecone vector DB configuration
 │   ├── embeddings/
-│   │   ├── embedder.py         # Cohere embedding service
-│   │   └── dataset_embeddings.py # Data preprocessing utilities
 │   ├── llms/
-│   │   └── gemini_llm.py       # Google Gemini integration
 │   ├── response/
-│   │   └── generate_response.py # RAG pipeline implementation
 │   └── sample_data/
-│       ├── agriculture.json    # Domain-specific datasets
-│       ├── education.json
-│       ├── environment.json
-│       ├── finance.json
-│       └── healthcare.json
 └── rag-frontend/               # Next.js Frontend
-    ├── package.json            # Node.js dependencies
-    ├── next.config.mjs         # Next.js configuration
-    ├── tailwind.config.js      # Tailwind CSS configuration
     ├── src/
     │   ├── app/                # Next.js App Router
     │   │   ├── layout.js       # Root layout
     │   │   ├── page.js         # Home page
     │   │   └── chat/           # Chat routes
-    │   │       ├── page.jsx    # Chat page
-    │   │       └── [chatId]/   # Dynamic chat routes
     │   ├── components/         # Reusable components
-    │   │   ├── auth/           # Authentication components
-    │   │   └── chat/           # Chat-related components
     │   ├── context/            # React context providers
-    │   │   ├── AuthProvider.jsx
-    │   │   └── ChatsProvider.jsx
     │   ├── lib/
-    │   │   └── supabase.js     # Supabase configuration
     │   └── utils/
-    │       └── utility.js      # Utility functions
     └── public/                 # Static assets
-        └── chatnest.png        # App logo
 ```
 
 ---
 
-## 🎯 **Business Value & ROI**
-
-### **Cost Efficiency**
-- **60% reduction** in unnecessary API calls through credit system
-- **Serverless architecture** minimizes infrastructure costs
-- **Efficient vector search** reduces computation overhead
-- **Optimized frontend** with static generation and lazy loading
-
-### **User Experience**
-- **Sub-2 second** response times for better engagement
-- **Source attribution** builds user trust and credibility
-- **Domain expertise** provides specialized, accurate information
-- **Intuitive interface** with modern design patterns
-- **Cross-device compatibility** for maximum accessibility
-
-### **Scalability & Maintenance**
-- **Modular design** enables rapid feature development
-- **Easy domain expansion** through JSON data addition
-- **Production monitoring** ensures consistent performance
-- **Component-based architecture** for maintainable frontend code
-- **Type-safe development** with TypeScript-ready structure
-
----
-
-## 🔮 **Future Enhancements**
-
-### **Backend Improvements**
-- **Multi-language Support** with international datasets
-- **Advanced Analytics Dashboard** for usage insights
-- **Real-time Data Ingestion** from live sources
-- **Custom Domain Training** for enterprise clients
-
-### **Frontend Enhancements**
-- **Voice Interface Integration** for accessibility
-- **Mobile App Development** with React Native
-- **Real-time Collaborative Chat** with WebSocket integration
-- **Advanced Search Filters** and conversation management
-- **Offline Mode** with service workers
-- **PWA Features** for app-like experience
-
----
-
-## 👨‍💻 **Developer Insights**
-
-This project demonstrates expertise in:
-
-### **Full-Stack Development**
-- **Modern Frontend Development** with Next.js 15 and React 19
-- **Backend API Design** with FastAPI and async patterns
-- **State Management** using React Context and localStorage
-- **Authentication Systems** with Supabase integration
-
-### **AI/ML Integration**
-- **RAG Pipeline Implementation** with vector databases
-- **Multiple AI Service Integration** (Gemini, Cohere, Pinecone)
-- **Embedding and Similarity Search** optimization
-- **Cost-Effective AI Usage** through intelligent caching
-
-### **System Design & Architecture**
-- **Microservices Architecture** with clear separation of concerns
-- **Scalable Database Design** for user management and chat history
-- **Real-time Features** with optimistic UI updates
-- **Cross-Origin Resource Sharing** for seamless integration
-
-### **Production Best Practices**
-- **Environment-Based Configuration** for secure deployment
-- **Error Handling & Logging** for operational insights
-- **Performance Optimization** through lazy loading and caching
-- **Responsive Design** following modern UI/UX principles
-
----
-
-## 📞 **Contact & Collaboration**
+## **Developer Profile**
 
 **Ready to discuss how this RAG system can solve your business challenges?**
 
